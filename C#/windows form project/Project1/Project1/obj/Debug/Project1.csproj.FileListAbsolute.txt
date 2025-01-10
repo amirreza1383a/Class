@@ -1,0 +1,13 @@
+E:\New folder\Pro ahmad\Project1\Project1\bin\Debug\Project1.exe.config
+E:\New folder\Pro ahmad\Project1\Project1\bin\Debug\Project1.exe
+E:\New folder\Pro ahmad\Project1\Project1\bin\Debug\Project1.pdb
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.Form1.resources
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.Form2.resources
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.Form3.resources
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.exe
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.pdb
+E:\New folder\Pro ahmad\Project1\Project1\obj\Debug\Project1.Form4.resources
